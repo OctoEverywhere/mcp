@@ -1,7 +1,7 @@
 <p align="center"><img src="https://octoeverywhere.com/img/logo.png" alt="OctoEverywhere's Logo" style="width:100px" /></p>
 <h1 align="center" style="margin-bottom:20px"><a href="https://octoeverywhere.com/mcp?utm_campaign=mcp_repo&utm_content=header&utm_source=github">MCP For 3D Printing</a></h1>
 
-[OctoEverywhere's free MCP server](https://octoeverywhere.com/mcp?utm_campaign=mcp_repo&utm_content=intro&utm_source=github) allows secure and private access to your 3D printers via the Model Context Protocol (MCP) for AI chatbots, agents, and workflows. Link your 3D printer to OctoEverywhere, grab your MCP access token, and you're ready to chat!
+[A free, private, and secure cloud MCP server for 3D printer access, monitoring, and control.](https://octoeverywhere.com/mcp?utm_campaign=mcp_repo&utm_content=intro&utm_source=github) OctoEverywhere's 3D printing MCP server enables access to your 3D printers via the Model Context Protocol (MCP) for AI chatbots, agents, and workflows. Link your 3D printer to OctoEverywhere, grab your MCP access token, and you're ready to chat!
 
 ## Features
 
@@ -10,12 +10,12 @@
     - Print progress, elapsed time, and estimated time to completion.
     - [Gadget AI](https://octoeverywhere.com/gadget?utm_campaign=mcp_repo&utm_content=gadget&utm_source=github) print failure detection status.
     - Hotend, bed, and chamber temperatures.
-    - Print file information including, the file name.
+    - Print file information, including the file name.
     - Current layer and total layer information.
 - 📷 Live webcam snapshots
     - Supports multi-camera setups.
 - ⏸️ Printer control including:
-    - Pausing, Resuming, and Canceling print jobs.
+    - Pausing, resuming, and canceling print jobs.
 - ❤️ Works with any 3D printer, including:
     - OctoPrint
     - Klipper
